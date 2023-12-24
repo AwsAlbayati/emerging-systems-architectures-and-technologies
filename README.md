@@ -25,9 +25,11 @@ The skills transferable from this project include embedded systems programming, 
 ### Installation
 
 * Clone the repository:
+  
  ``` bash Copy code git clone https://github.com/yourusername/smart-thermostat.git  ```
 
 * Install dependencies:
+
  ``` bash Copy code cd smart-thermostat npm install  # or your preferred package manager ```
 
 ## Usage
